@@ -1,2 +1,2 @@
 Esse é um arquivo teste, para fins acadêmicos! 
-É um segundo arquivo de texto feito para a atividade GitHub Básico de TECTI
+É um segundo arquivo de texto feito para a atividade GitHub Básico de TECTI também criado em nova_branch_1
