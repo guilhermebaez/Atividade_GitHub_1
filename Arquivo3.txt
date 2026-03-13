@@ -1,1 +1,2 @@
-Esse é mais um arquivo de texto criado para fins acadêmicos, feito agora em uma segunda branch! Esse arquivo foi criado na nova_branch_2 e mergeado com a branch Main!
+Esse é mais um arquivo de texto criado para fins acadêmicos, feito agora em uma segunda branch!
+Esse arquivo foi criado na nova_branch_2 e mergeado com a branch Main!
